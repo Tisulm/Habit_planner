@@ -15,4 +15,4 @@ There are also functionalities to:
 + automatically reset progress based on last login.
 
 Additionally, this program incorporates separation of concerns as it has separate files for logic, data persistence, and user interaction.
-May this Habit Planner serve you well.
+Run it with Bash by entering "python daily_habits.py", or download daily_habits.py, logic.py and save.py, put them in a folder, and run daily_habits.py from your machine. May this Habit Planner serve you well!
